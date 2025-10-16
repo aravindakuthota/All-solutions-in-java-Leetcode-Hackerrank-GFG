@@ -1,3 +1,6 @@
+// using hashmap , frequency counter
+
+
 class Solution {
     public boolean isAnagram(String s, String t) {
        if(s.length()!=t.length()) {
